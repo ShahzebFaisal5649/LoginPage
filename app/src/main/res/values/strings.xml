@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="user_image">User Profile Image</string>
+    <string name="profile_image_desc">Profile image placeholder</string>
+    <string name="detail_icon_desc">Detail Icon</string>
+    <string name="add_entry_description">Add a new diary entry</string>
+</resources>
